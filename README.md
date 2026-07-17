@@ -1214,4 +1214,4 @@ python tools/repl.py
 ## Known Issues
 
 - **Transducteurs (`haproxy`, `nginx_proxy`)** : la commande `transduce` renvoie une erreur 400. L’investigation est en cours.
-- **Tests limités** : seuls `hyper`, `nginx` et `gunicorn` ont été validés sur Windows. D’autres serveurs peuvent nécessiter des ajustements."#" 
+.
